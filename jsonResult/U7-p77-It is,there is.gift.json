@@ -1,0 +1,831 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 1,
+      "text": "$CATEGORY: $course$/top/Gold B2, Unit 7"
+    },
+    "result": [
+      [
+        {
+          "type": "Category",
+          "title": "$course$/top/Gold B2, Unit 7"
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 3,
+      "end": 3,
+      "text": "::U7 p77 [It/There is] 4.0::[html]Complete these sentences with <i>it</i> or <i>there</i> and a form of <i>be</i> if necessary."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U7 p77 [It/There is] 4.0",
+          "stem": {
+            "format": "html",
+            "text": "Complete these sentences with <i>it</i> or <i>there</i> and a form of <i>be</i> if necessary."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 5,
+      "text": "::U7 p77 [It/There is] 4.1::{=It is =it is =It's =it's} not unusual to have dinner at 10.30p.m."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U7 p77 [It/There is] 4.1",
+          "stem": {
+            "format": "moodle",
+            "text": "_____ not unusual to have dinner at 10.30p.m."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "It is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "it is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "It's"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "it's"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 7,
+      "end": 7,
+      "text": "::U7 p77 [It/There is] 4.2::{=It is =it is =It's =it's} common for men to greet each other with a kiss on the cheek."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U7 p77 [It/There is] 4.2",
+          "stem": {
+            "format": "moodle",
+            "text": "_____ common for men to greet each other with a kiss on the cheek."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "It is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "it is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "It's"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "it's"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 9,
+      "text": "::U7 p77 [It/There is] 4.3::{=There =there} might sometimes be applause when a guest arrives."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U7 p77 [It/There is] 4.3",
+          "stem": {
+            "format": "moodle",
+            "text": "_____ might sometimes be applause when a guest arrives."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "There"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "there"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 11,
+      "text": "::U7 p77 [It/There is] 4.4::{=There is =There's =there is =there's} no need to tip waiters in restaurants."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U7 p77 [It/There is] 4.4",
+          "stem": {
+            "format": "moodle",
+            "text": "_____ no need to tip waiters in restaurants."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "There is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "There's"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "there is"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "there's"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 15,
+      "text": "::U7 p77 [It/There is] GR+.1::{~=It ~There} is good that you can come to the party."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 32,
+              "line": 15,
+              "column": 32
+            },
+            "end": {
+              "offset": 33,
+              "line": 15,
+              "column": 33
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 33,
+              "line": 15,
+              "column": 33
+            },
+            "end": {
+              "offset": 34,
+              "line": 15,
+              "column": 34
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 15,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 15,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 17,
+      "end": 17,
+      "text": "::U7 p77 [It/There is] GR+.2::{~It ~=There} is some food on the table."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 17,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 17,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 19,
+      "text": "::U7 p77 [It/There is] GR+.3::{~It ~=There} might be a traffic jam unless we leave early."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 19,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 19,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 21,
+      "end": 21,
+      "text": "::U7 p77 [It/There is] GR+.4::{~=It ~There} is almost lunchtime."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 32,
+              "line": 21,
+              "column": 32
+            },
+            "end": {
+              "offset": 33,
+              "line": 21,
+              "column": 33
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 33,
+              "line": 21,
+              "column": 33
+            },
+            "end": {
+              "offset": 34,
+              "line": 21,
+              "column": 34
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 21,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 21,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 23,
+      "end": 23,
+      "text": "::U7 p77 [It/There is] GR+.5::{~=It ~There} was a very nice meal. Thank you."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 32,
+              "line": 23,
+              "column": 32
+            },
+            "end": {
+              "offset": 33,
+              "line": 23,
+              "column": 33
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 33,
+              "line": 23,
+              "column": 33
+            },
+            "end": {
+              "offset": 34,
+              "line": 23,
+              "column": 34
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 23,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 23,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 25,
+      "text": "::U7 p77 [It/There is] GR+.6::{~=It ~There} is very cold again today."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 32,
+              "line": 25,
+              "column": 32
+            },
+            "end": {
+              "offset": 33,
+              "line": 25,
+              "column": 33
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 33,
+              "line": 25,
+              "column": 33
+            },
+            "end": {
+              "offset": 34,
+              "line": 25,
+              "column": 34
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 25,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 25,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 27,
+      "end": 27,
+      "text": "::U7 p77 [It/There is] GR+.7::{~It ~=There} is someone at the door. Can you answer it, please?"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 27,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 27,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 29,
+      "end": 29,
+      "text": "::U7 p77 [It/There is] GR+.8::{~It ~=There} isn't any time to have a quick coffee first."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 29,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 29,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

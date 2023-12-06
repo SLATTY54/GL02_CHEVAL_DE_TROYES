@@ -1,0 +1,402 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 1,
+      "text": "$CATEGORY: $course$/top/Gold B2, Unit 9"
+    },
+    "result": [
+      [
+        {
+          "type": "Category",
+          "title": "$course$/top/Gold B2, Unit 9"
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 3,
+      "end": 6,
+      "text": "::U9 p95 4.0 Third conditional::<b>Complete the sentences below to express criticism. Use the third conditional and the cues in brackets. Write the <u>full B response</u> (full sentence) in the field below each question.</b><br>\n<i>Example:</i><br>\n<b>A:</b> I was only just able to brake in time when a deer ran out in front of me. (<i>drive more slowly</i>) <br>\n<b>B:</b> If you’d been <b><u>driving more slowly, you wouldn’t have had to brake</u></b> so suddenly."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 240,
+              "line": 4,
+              "column": 11
+            },
+            "end": {
+              "offset": 241,
+              "line": 4,
+              "column": 12
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 254,
+              "line": 5,
+              "column": 5
+            },
+            "end": {
+              "offset": 255,
+              "line": 5,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 370,
+              "line": 6,
+              "column": 5
+            },
+            "end": {
+              "offset": 371,
+              "line": 6,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 10,
+      "text": "::U9 p95 4.2 Third conditional::[html]\n<b>A:</b> I hit my head on the windscreen when I stopped. (<i>wear a seatbelt</i>) <br>\n<b>B:</b> You ____.{}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 9,
+              "column": 5
+            },
+            "end": {
+              "offset": 45,
+              "line": 9,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 132,
+              "line": 10,
+              "column": 5
+            },
+            "end": {
+              "offset": 133,
+              "line": 10,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 12,
+      "end": 14,
+      "text": "::U9 p95 4.3 Third conditional::[html]\n<b>A:</b> We set off a bit late and got held up in the traffic. (<i>leave earlier</i>) <br>\n<b>B:</b> If you ____ in the traffic.{}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 13,
+              "column": 5
+            },
+            "end": {
+              "offset": 45,
+              "line": 13,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 136,
+              "line": 14,
+              "column": 5
+            },
+            "end": {
+              "offset": 137,
+              "line": 14,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 16,
+      "end": 18,
+      "text": "::U9 p95 4.4 Third conditional::[html]\n<b>A:</b> We got stuck on a mountain because a heavy fog suddenly came down. (<i>check weather forecast</i>) <br>\n<b>B:</b> If ____ on a mountain in the fog.{}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 17,
+              "column": 5
+            },
+            "end": {
+              "offset": 45,
+              "line": 17,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 158,
+              "line": 18,
+              "column": 5
+            },
+            "end": {
+              "offset": 159,
+              "line": 18,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 20,
+      "end": 22,
+      "text": "::U9 p95 4.5 Third conditional::[html]\n<b>A:</b> I went to get a coffee and lost all the work I was doing. (<i>save the document</i>) <br>\n<b>B:</b> You ____.{}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 21,
+              "column": 5
+            },
+            "end": {
+              "offset": 45,
+              "line": 21,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 144,
+              "line": 22,
+              "column": 5
+            },
+            "end": {
+              "offset": 145,
+              "line": 22,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 24,
+      "end": 26,
+      "text": "::U9 p95 4.6 Third conditional::[html]\n<b>A:</b> I was doing something else so I didn't hear what she said. (<i>pay attention</i>) <br>\n<b>B:</b> If ____ what she said.{}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 25,
+              "column": 5
+            },
+            "end": {
+              "offset": 45,
+              "line": 25,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 141,
+              "line": 26,
+              "column": 5
+            },
+            "end": {
+              "offset": 142,
+              "line": 26,
+              "column": 6
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

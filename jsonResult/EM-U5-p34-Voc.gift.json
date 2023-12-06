@@ -1,0 +1,345 @@
+[
+  {
+    "location": {
+      "start": 3,
+      "end": 3,
+      "text": "::EM U5 p34 Voc1.0::Complete sentences with the words in the list."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "EM U5 p34 Voc1.0",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete sentences with the words in the list."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 5,
+      "text": "::EM U5 p34 Voc1.1:: I never eat meat — I follow a strict {~high-fat~low-salt~=vegetarian~vitamins~well-balanced} diet."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 78,
+              "line": 5,
+              "column": 78
+            },
+            "end": {
+              "offset": 79,
+              "line": 5,
+              "column": 79
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 7,
+      "end": 7,
+      "text": "::EM U5 p34 Voc1.2:: People who are overweight are rarely told to follow a {~=high-fat~low-salt~vegetarian~vitamins~well-balanced} diet."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 77,
+              "line": 7,
+              "column": 77
+            },
+            "end": {
+              "offset": 78,
+              "line": 7,
+              "column": 78
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 78,
+              "line": 7,
+              "column": 78
+            },
+            "end": {
+              "offset": 79,
+              "line": 7,
+              "column": 79
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 87,
+              "line": 7,
+              "column": 87
+            },
+            "end": {
+              "offset": 88,
+              "line": 7,
+              "column": 88
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 96,
+              "line": 7,
+              "column": 96
+            },
+            "end": {
+              "offset": 97,
+              "line": 7,
+              "column": 97
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 107,
+              "line": 7,
+              "column": 107
+            },
+            "end": {
+              "offset": 108,
+              "line": 7,
+              "column": 108
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 116,
+              "line": 7,
+              "column": 116
+            },
+            "end": {
+              "offset": 117,
+              "line": 7,
+              "column": 117
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 9,
+      "text": "::EM U5 p34 Voc1.3:: It’s good to give children a {~high-fat~low-salt~vegetarian~vitamins~=well-balanced} diet, including meat, frurt and sugar."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 90,
+              "line": 9,
+              "column": 90
+            },
+            "end": {
+              "offset": 91,
+              "line": 9,
+              "column": 91
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 11,
+      "text": "::EM U5 p34 Voc1.4:: love frurt, vegetables and so on, I know I’m getting a diet rich in {~high-fat~low-salt~vegetarian~=vitamins~well-balanced}."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 120,
+              "line": 11,
+              "column": 120
+            },
+            "end": {
+              "offset": 121,
+              "line": 11,
+              "column": 121
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 13,
+      "text": "::EM U5 p34 Voc1.5:: Older people may be advised to follow a {~high-fat~=low-salt~vegetarian~vitamins~well-balanced} diet for health reasons."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 72,
+              "line": 13,
+              "column": 72
+            },
+            "end": {
+              "offset": 73,
+              "line": 13,
+              "column": 73
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

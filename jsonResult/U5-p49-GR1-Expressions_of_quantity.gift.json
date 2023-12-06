@@ -1,0 +1,377 @@
+[
+  {
+    "location": {
+      "start": 3,
+      "end": 3,
+      "text": "::U5 p49 GR1.0 Expressions of quantity::Choose the correct option."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U5 p49 GR1.0 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "Choose the correct option."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 5,
+      "text": "::U5 p49 GR1.1 Expressions of quantity::I don't eat {~many =much} fresh fruit."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.1 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "I don't eat _____ fresh fruit."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "many"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "much"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 7,
+      "end": 7,
+      "text": "::U5 p49 GR1.2 Expressions of quantity::There aren't {=a lot of ~hardly any} green vegetables for sale."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.2 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "There aren't _____ green vegetables for sale."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "a lot of"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "hardly any"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 9,
+      "text": "::U5 p49 GR1.3 Expressions of quantity::I drink {~very few =very little} water."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.3 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "I drink _____ water."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "very few"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "very little"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 11,
+      "text": "::U5 p49 GR1.4 Expressions of quantity::We eat {=hardly any ~very few} meat at home."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.4 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "We eat _____ meat at home."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "hardly any"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "very few"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 13,
+      "text": "::U5 p49 GR1.5 Expressions of quantity::I only eat {~a little =a few} eggs each week."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.5 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "I only eat _____ eggs each week."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "a little"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "a few"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 15,
+      "text": "::U5 p49 GR1.6 Expressions of quantity::I'd like to have {=some ~a few} rice with my curry."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.6 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "I'd like to have _____ rice with my curry."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "some"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "a few"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 17,
+      "end": 17,
+      "text": "::U5 p49 GR1.7 Expressions of quantity::I drink {=a lot of ~many} orange juice."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.7 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "I drink _____ orange juice."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "a lot of"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "many"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 19,
+      "text": "::U5 p49 GR1.8 Expressions of quantity::There isn't {~no =any} chocolate left."
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p49 GR1.8 Expressions of quantity",
+          "stem": {
+            "format": "moodle",
+            "text": "There isn't _____ chocolate left."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "no"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "any"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

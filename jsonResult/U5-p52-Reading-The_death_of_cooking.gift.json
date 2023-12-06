@@ -1,0 +1,812 @@
+[
+  {
+    "location": {
+      "start": 10,
+      "end": 11,
+      "text": "::U5 p52 2 Reading: compr questions::Read the article:\n<INSERT TEXT IMAGE HERE>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\", (comment), :: Title ::, Category, Description, or Question stem but \":\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "Category"
+            },
+            {
+              "type": "other",
+              "description": "Description"
+            },
+            {
+              "type": "other",
+              "description": "(comment)"
+            },
+            {
+              "type": "other",
+              "description": ":: Title ::"
+            },
+            {
+              "type": "other",
+              "description": "Question stem"
+            },
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 1,
+              "line": 10,
+              "column": 1
+            },
+            "end": {
+              "offset": 2,
+              "line": 10,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 2,
+              "line": 10,
+              "column": 2
+            },
+            "end": {
+              "offset": 3,
+              "line": 10,
+              "column": 3
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 19,
+              "line": 10,
+              "column": 19
+            },
+            "end": {
+              "offset": 20,
+              "line": 10,
+              "column": 20
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 10,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 10,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 10,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 10,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 54,
+              "line": 10,
+              "column": 54
+            },
+            "end": {
+              "offset": 55,
+              "line": 10,
+              "column": 55
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 16,
+      "end": 16,
+      "text": "::U5 p52 3.0 Reading compr::For the following questions, choose the answer which you think fits best according to the text."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U5 p52 3.0 Reading compr",
+          "stem": {
+            "format": "moodle",
+            "text": "For the following questions, choose the answer which you think fits best according to the text."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 18,
+      "end": 23,
+      "text": "::U5 p52 3.1 Reading compr::Why did Rob Rhinehart initially create Soylent? {\n  ~He saw it as a way of earning money to support his new company.\n  ~He felt that cooking was taking up too much of his time.\n  ~He wanted to live on a diet of nutritious food.\n  ~=He thought that he would be able to live more cheaply.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 259,
+              "line": 22,
+              "column": 3
+            },
+            "end": {
+              "offset": 260,
+              "line": 22,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 30,
+      "text": "::U5 p52 3.2 Reading compr::Following the interest in his blog, Rhinehart {\n  ~couldn't keep up with the demand for Soylent.\n  ~had to choose which of his businesses to close.\n  ~improved the recipe for Soylent.\n  ~=started producing big quantities of Soylent.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 215,
+              "line": 29,
+              "column": 3
+            },
+            "end": {
+              "offset": 216,
+              "line": 29,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 32,
+      "end": 37,
+      "text": "::U5 p52 3.3 Reading compr::The writer was surprised by the public reaction to Soylent because {\n  ~liquid food has always been associated with ill health.\n  ~=people were already familiar with the idea of liquid meal replacements.\n  ~there are lots of similar products available.\n  ~astronauts stopped using liquid food a long time ago.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 159,
+              "line": 34,
+              "column": 3
+            },
+            "end": {
+              "offset": 160,
+              "line": 34,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 39,
+      "end": 44,
+      "text": "::U5 p52 3.4 Reading compr::What does Rhinehart say about people's eating habits in the future? {\n  ~They will feel less hungry at meal times.\n  ~They will prefer eating liquid food.\n  ~=They will only cook when they feel like it.\n  ~They will appreciate eating out more than people do now.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 186,
+              "line": 42,
+              "column": 3
+            },
+            "end": {
+              "offset": 187,
+              "line": 42,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 46,
+      "end": 51,
+      "text": "::U5 p52 3.5 Reading compr::What point is made in the fifth paragraph? {\n  ~=Most of our food has been altered in some way.\n  ~Food production needs to get more efficient.\n  ~People are reluctant to eat food products they consider unnatural.\n  ~Plants which are easy to grow will soon replace more popular vegetables.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 76,
+              "line": 47,
+              "column": 3
+            },
+            "end": {
+              "offset": 77,
+              "line": 47,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 77,
+              "line": 47,
+              "column": 4
+            },
+            "end": {
+              "offset": 78,
+              "line": 47,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 127,
+              "line": 48,
+              "column": 3
+            },
+            "end": {
+              "offset": 128,
+              "line": 48,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 175,
+              "line": 49,
+              "column": 3
+            },
+            "end": {
+              "offset": 176,
+              "line": 49,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 245,
+              "line": 50,
+              "column": 3
+            },
+            "end": {
+              "offset": 246,
+              "line": 50,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 53,
+      "end": 58,
+      "text": "::U5 p52 3.6 Reading compr::In the final paragraph, the writer expresses {\n  ~doubt that Soylent is only suitable for one group of people.\n  ~=hope that Soylent may be a solution to a serious problem.\n  ~surprise about the predicted demand for Soylent products.\n  ~disagreement that products like Soylent are a risk to family life.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 142,
+              "line": 55,
+              "column": 3
+            },
+            "end": {
+              "offset": 143,
+              "line": 55,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 62,
+      "end": 69,
+      "text": "::U5 p52 6 Reading/Vocab expressions::Match the underlined phrases in the article to their meanings:{\n  =having none of it           -> refuse to accept\n  =do away with                -> remove the need for\n  =hit upon                    -> discover by accident\n  =reached the end of the line -> no longer possible to continue\n  =be confined to              -> be limited to\n  =went viral                  -> spread quickly on the internet\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 62,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 62,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 73,
+      "end": 73,
+      "text": "::U5 p52 7.0 Reading/Vocab collocations::Decide whether both or only one of the verbs in italics collocates with the noun. If necessary, check the meaning in a dictionary."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U5 p52 7.0 Reading/Vocab collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "Decide whether both or only one of the verbs in italics collocates with the noun. If necessary, check the meaning in a dictionary."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 75,
+      "end": 78,
+      "text": "::U5 p52 7.1 Collocations::Their crop of soya beans has ______ in size.{\n  ~%50%doubled\n  ~%50%expanded\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p52 7.1 Collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "Their crop of soya beans has ______ in size."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": 50,
+              "text": {
+                "format": "moodle",
+                "text": "doubled"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": 50,
+              "text": {
+                "format": "moodle",
+                "text": "expanded"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 80,
+      "end": 83,
+      "text": "::U5 p52 7.2 Collocations::The business ______ rapidly.{\n  ~%50%expanded\n  ~%50%grew\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p52 7.2 Collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "The business ______ rapidly."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": 50,
+              "text": {
+                "format": "moodle",
+                "text": "expanded"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": 50,
+              "text": {
+                "format": "moodle",
+                "text": "grew"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 85,
+      "end": 88,
+      "text": "::U5 p52 7.3 Collocations::They ______ a huge family on very little money.{\n  ~%100%raised\n  ~%-100%grew\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p52 7.3 Collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "They ______ a huge family on very little money."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": 100,
+              "text": {
+                "format": "moodle",
+                "text": "raised"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": -100,
+              "text": {
+                "format": "moodle",
+                "text": "grew"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 90,
+      "end": 93,
+      "text": "::U5 p52 7.4 Collocations::No one ______ any objections to the plan.{\n  ~%100%raised\n  ~%-100%introduced\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p52 7.4 Collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "No one ______ any objections to the plan."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": 100,
+              "text": {
+                "format": "moodle",
+                "text": "raised"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": -100,
+              "text": {
+                "format": "moodle",
+                "text": "introduced"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 95,
+      "end": 98,
+      "text": "::U5 p52 7.5 Collocations::The company had to ______ production to meet demand for the product.{\n  ~%-100%raise\n  ~%100%increase\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U5 p52 7.5 Collocations",
+          "stem": {
+            "format": "moodle",
+            "text": "The company had to ______ production to meet demand for the product."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": -100,
+              "text": {
+                "format": "moodle",
+                "text": "raise"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": 100,
+              "text": {
+                "format": "moodle",
+                "text": "increase"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

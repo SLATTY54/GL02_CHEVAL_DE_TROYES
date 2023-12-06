@@ -1,0 +1,848 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 1,
+      "text": "::U4 p42 1.0::How much do you know about Antarctica?"
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U4 p42 1.0",
+          "stem": {
+            "format": "moodle",
+            "text": "How much do you know about Antarctica?"
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 3,
+      "end": 7,
+      "text": "::U4 p42 1.1 Pre-listening Antartica::Antarctica has the world’s largest {\n~volcano.\n~=desert.\n~mountain range.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 86,
+              "line": 5,
+              "column": 1
+            },
+            "end": {
+              "offset": 87,
+              "line": 5,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 13,
+      "text": "::U4 p42 1.2 Pre-listening Antartica::Has Antarctica always been cold? {\n~=No, it used to be tropical.\n~Yes, it’s always been covered in thick ice.\n~Yes, but the ice used to be a lot thinner.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 74,
+              "line": 10,
+              "column": 1
+            },
+            "end": {
+              "offset": 75,
+              "line": 10,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 75,
+              "line": 10,
+              "column": 2
+            },
+            "end": {
+              "offset": 76,
+              "line": 10,
+              "column": 3
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 104,
+              "line": 11,
+              "column": 1
+            },
+            "end": {
+              "offset": 105,
+              "line": 11,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 149,
+              "line": 12,
+              "column": 1
+            },
+            "end": {
+              "offset": 150,
+              "line": 12,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 19,
+      "text": "::U4 p42 1.3 Pre-listening Antartica::Which of these animals do you NOT get in Antarctica? {\n~penguins.\n~seals.\n~=polar bears.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 113,
+              "line": 18,
+              "column": 1
+            },
+            "end": {
+              "offset": 114,
+              "line": 18,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 21,
+      "end": 25,
+      "text": "::U4 p42 1.4 Pre-listening Antartica::Who led the first team to reach the South Pole in 1911? {\n~=Ronald Amundsen.\n~Robert Falcon Scott.\n~Ernest Shackleton.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 97,
+              "line": 22,
+              "column": 1
+            },
+            "end": {
+              "offset": 98,
+              "line": 22,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 98,
+              "line": 22,
+              "column": 2
+            },
+            "end": {
+              "offset": 99,
+              "line": 22,
+              "column": 3
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 116,
+              "line": 23,
+              "column": 1
+            },
+            "end": {
+              "offset": 117,
+              "line": 23,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 138,
+              "line": 24,
+              "column": 1
+            },
+            "end": {
+              "offset": 139,
+              "line": 24,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 27,
+      "end": 31,
+      "text": "::U4 p42 1.5 Pre-listening Antartica::Why is Ernest Shackleton’s 1908 expedition famous? {\n~Everyone except Shackleton survived the trip.\n~The men survived but they didn’t get to the South Pole.\n~=All the men died on the way back from the South Pole.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 196,
+              "line": 30,
+              "column": 1
+            },
+            "end": {
+              "offset": 197,
+              "line": 30,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 33,
+      "end": 33,
+      "text": "::U4 p43 3.0::You are going to hear an interview with Leo Stone, who describes his expedition to the South Pole in the steps of the explorer, Shackleton. Listen to the interview and answer the questions."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U4 p43 3.0",
+          "stem": {
+            "format": "moodle",
+            "text": "You are going to hear an interview with Leo Stone, who describes his expedition to the South Pole in the steps of the explorer, Shackleton. Listen to the interview and answer the questions."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 35,
+      "end": 39,
+      "text": "::U4 p43 3.1::What was unusual about Leo's team?{\n~They were all descendants of Ernest Shackleton.\n~=They all had a personal link with the 1908 trip.\n~They'd all attempted to reach the South Pole before.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 37,
+              "column": 1
+            },
+            "end": {
+              "offset": 101,
+              "line": 37,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 41,
+      "end": 45,
+      "text": "::U4 p43 3.2::What does Leo say wasthe hardest thing for the team before the expedition?{\n~organising the finance.\n~=preparing mentally.\n~getting physically fit.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 116,
+              "line": 43,
+              "column": 1
+            },
+            "end": {
+              "offset": 117,
+              "line": 43,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 47,
+      "end": 51,
+      "text": "::U4 p43 3.3::What does Leo say was easier for the 21st-century expedition than for Shackleton’s expedition?{\n~=planning their daily route.\n~doing the cooking.\n~carrying their equipment.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 111,
+              "line": 48,
+              "column": 1
+            },
+            "end": {
+              "offset": 112,
+              "line": 48,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 112,
+              "line": 48,
+              "column": 2
+            },
+            "end": {
+              "offset": 113,
+              "line": 48,
+              "column": 3
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 141,
+              "line": 49,
+              "column": 1
+            },
+            "end": {
+              "offset": 142,
+              "line": 49,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 161,
+              "line": 50,
+              "column": 1
+            },
+            "end": {
+              "offset": 162,
+              "line": 50,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 53,
+      "end": 57,
+      "text": "::U4 p43 3.4::What problem did both expeditions experience?{\n~running out of food.\n~aserious illness.\n~=bad weather.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 103,
+              "line": 56,
+              "column": 1
+            },
+            "end": {
+              "offset": 104,
+              "line": 56,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 59,
+      "end": 63,
+      "text": "::U4 p43 3.5::How did Leo feel when he was crossing the Antarctic plateau?{\n~=He hadn't expected it to be so difficult.\n~He was worried they wouldn't reach the South Pole.\n~He doubted his skills as a leader.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 77,
+              "line": 60,
+              "column": 1
+            },
+            "end": {
+              "offset": 78,
+              "line": 60,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 78,
+              "line": 60,
+              "column": 2
+            },
+            "end": {
+              "offset": 79,
+              "line": 60,
+              "column": 3
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 121,
+              "line": 61,
+              "column": 1
+            },
+            "end": {
+              "offset": 122,
+              "line": 61,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 173,
+              "line": 62,
+              "column": 1
+            },
+            "end": {
+              "offset": 174,
+              "line": 62,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 65,
+      "end": 69,
+      "text": "::U4 p43 3.6::The part of the trip Leo enjoyed the most was when they{\n~reached the South Pole.\n~=reached the same point that Shackleton had got to.\n~reached home safely.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 97,
+              "line": 67,
+              "column": 1
+            },
+            "end": {
+              "offset": 98,
+              "line": 67,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 71,
+      "end": 75,
+      "text": "::U4 p43 3.7::What does Leo admire about Shackleton?{\n~his determination.\n~his ambition.\n~=his bravery.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 90,
+              "line": 74,
+              "column": 1
+            },
+            "end": {
+              "offset": 91,
+              "line": 74,
+              "column": 2
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

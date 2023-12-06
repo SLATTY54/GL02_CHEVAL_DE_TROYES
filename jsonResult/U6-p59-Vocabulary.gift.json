@@ -1,0 +1,218 @@
+[
+  {
+    "location": {
+      "start": 2,
+      "end": 3,
+      "text": "::U6 p59 Voc10.1 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'm not convinced I like all classical ballet but I love {=contemporary} dance.</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 2,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 2,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 6,
+      "text": "::U6 p59 Voc10.2 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I sometimes nip into an art {=gallery} or exhibition during my lunch break.</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 5,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 5,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 9,
+      "text": "::U6 p59 Voc10.3 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I prefer landscapes or portraits to more {=abstract} paintings.</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 8,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 8,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 12,
+      "text": "::U6 p59 Voc10.4 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'll often go to a play more than once if there's a different {=cast} performing.</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 11,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 11,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 14,
+      "end": 15,
+      "text": "::U6 p59 Voc10.5 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I tend to go for original theatre {=productions} by controversial directors.</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 14,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 14,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 17,
+      "end": 18,
+      "text": "::U6 p59 Voc10.6 the arts::[html]<small><p><i>Complete the sentence with one of the following words: <b>abstract • blockbusters • cast • contemporary • gallery • productions</b>.</i></p></small>\n<p>I'm a keen film-goer but I usually avoid {=blockbusters}."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 17,
+              "column": 100
+            },
+            "end": {
+              "offset": 101,
+              "line": 17,
+              "column": 101
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

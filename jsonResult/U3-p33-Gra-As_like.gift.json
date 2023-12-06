@@ -1,0 +1,567 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 1,
+      "text": "$CATEGORY: $course$/top/Gold B2, Unit 3"
+    },
+    "result": [
+      [
+        {
+          "type": "Category",
+          "title": "$course$/top/Gold B2, Unit 3"
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 3,
+      "end": 3,
+      "text": "::U3 p33 Gra as/like 6.0::[markdown]Complete the sentences with _as_ or _like_."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U3 p33 Gra as/like 6.0",
+          "stem": {
+            "format": "markdown",
+            "text": "Complete the sentences with _as_ or _like_."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 5,
+      "text": "::U3 p33 Gra as/like 6.1::Was that film {~as~=like} all his other ones?"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 45,
+              "line": 5,
+              "column": 45
+            },
+            "end": {
+              "offset": 46,
+              "line": 5,
+              "column": 46
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 7,
+      "end": 7,
+      "text": "::U3 p33 Gra as/like 6.2::Shall we still have lunch together, {~=as~=like} we said yesterday?"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 64,
+              "line": 7,
+              "column": 64
+            },
+            "end": {
+              "offset": 65,
+              "line": 7,
+              "column": 65
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 65,
+              "line": 7,
+              "column": 65
+            },
+            "end": {
+              "offset": 66,
+              "line": 7,
+              "column": 66
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 68,
+              "line": 7,
+              "column": 68
+            },
+            "end": {
+              "offset": 69,
+              "line": 7,
+              "column": 69
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 69,
+              "line": 7,
+              "column": 69
+            },
+            "end": {
+              "offset": 70,
+              "line": 7,
+              "column": 70
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 9,
+      "text": "::U3 p33 Gra as/like 6.3::I've always regarded you {~=as~like} a friend."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 53,
+              "line": 9,
+              "column": 53
+            },
+            "end": {
+              "offset": 54,
+              "line": 9,
+              "column": 54
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 54,
+              "line": 9,
+              "column": 54
+            },
+            "end": {
+              "offset": 55,
+              "line": 9,
+              "column": 55
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 57,
+              "line": 9,
+              "column": 57
+            },
+            "end": {
+              "offset": 58,
+              "line": 9,
+              "column": 58
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 11,
+      "text": "::U3 p33 Gra as/like 6.4::A job {~as~=like} that one takes a long time to finish."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 11,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 11,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 13,
+      "text": "::U3 p33 Gra as/like 6.5::He's working {~=as~like} a waiter in the holidays."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 41,
+              "line": 13,
+              "column": 41
+            },
+            "end": {
+              "offset": 42,
+              "line": 13,
+              "column": 42
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 42,
+              "line": 13,
+              "column": 42
+            },
+            "end": {
+              "offset": 43,
+              "line": 13,
+              "column": 43
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 45,
+              "line": 13,
+              "column": 45
+            },
+            "end": {
+              "offset": 46,
+              "line": 13,
+              "column": 46
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 15,
+      "text": "::U3 p33 Gra as/like 6.6::Please do it carefully {~as~=like} I asked you."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 54,
+              "line": 15,
+              "column": 54
+            },
+            "end": {
+              "offset": 55,
+              "line": 15,
+              "column": 55
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 18,
+      "end": 27,
+      "text": "::U3 p33 Gra as/like GR3::Match the following clauses to make sentences.{\n  =I have long dark hair, -> like my sister.\n  =He's always losing things, -> like his phone and his keys.\n  =I suggested going shopping, -> but she didn't feel like it.\n  =She says she doesn't feel like -> doing anything tonight.\n  =Buying a new printer looks -> like the best solution to the problem.\n  =I've always thought of you -> as someone I could depend on.\n  =It's probably best to do -> as your father suggests.\n  =Conor acts -> as if he was in charge of us all.\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "Matching",
+          "title": "U3 p33 Gra as/like GR3",
+          "stem": {
+            "format": "moodle",
+            "text": "Match the following clauses to make sentences."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "matchPairs": [
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "I have long dark hair,"
+              },
+              "subanswer": "like my sister."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "He's always losing things,"
+              },
+              "subanswer": "like his phone and his keys."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "I suggested going shopping,"
+              },
+              "subanswer": "but she didn't feel like it."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "She says she doesn't feel like"
+              },
+              "subanswer": "doing anything tonight."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "Buying a new printer looks"
+              },
+              "subanswer": "like the best solution to the problem."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "I've always thought of you"
+              },
+              "subanswer": "as someone I could depend on."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "It's probably best to do"
+              },
+              "subanswer": "as your father suggests."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "Conor acts"
+              },
+              "subanswer": "as if he was in charge of us all."
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

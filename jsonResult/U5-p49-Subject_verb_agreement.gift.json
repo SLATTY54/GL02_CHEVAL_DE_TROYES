@@ -1,0 +1,838 @@
+[
+  {
+    "location": {
+      "start": 4,
+      "end": 4,
+      "text": "::U5 p49 GR2.0::Complete the sentences with <i>is</i> or <i>are</i>."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U5 p49 GR2.0",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences with <i>is</i> or <i>are</i>."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 6,
+      "end": 6,
+      "text": "::U5 p49 GR2.1::The first few weeks {=are} the most difficult."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.1",
+          "stem": {
+            "format": "moodle",
+            "text": "The first few weeks _____ the most difficult."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "are"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 8,
+      "text": "::U5 p49 GR2.2::Hardly any of the roses in the garden {=are} blooming."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.2",
+          "stem": {
+            "format": "moodle",
+            "text": "Hardly any of the roses in the garden _____ blooming."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "are"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 10,
+      "end": 10,
+      "text": "::U5 p49 GR2.3::Only a bit of the orange juice I bought for the children {=is} left."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.3",
+          "stem": {
+            "format": "moodle",
+            "text": "Only a bit of the orange juice I bought for the children _____ left."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "is"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 12,
+      "end": 12,
+      "text": "::U5 p49 GR2.4::There {=are} hardly any chocolates left in the box."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.4",
+          "stem": {
+            "format": "moodle",
+            "text": "There _____ hardly any chocolates left in the box."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "are"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 14,
+      "end": 14,
+      "text": "::U5 p49 GR2.5::Very few of the players in that team {=are} any good."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.5",
+          "stem": {
+            "format": "moodle",
+            "text": "Very few of the players in that team _____ any good."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "are"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 16,
+      "end": 16,
+      "text": "::U5 p49 GR2.6::There {=is} not much useful information in any of those books."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p49 GR2.6",
+          "stem": {
+            "format": "moodle",
+            "text": "There _____ not much useful information in any of those books."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "is"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 20,
+      "end": 20,
+      "text": "::U5 p49 11.0 Subject-verb agreement::Choose the correct option."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U5 p49 11.0 Subject-verb agreement",
+          "stem": {
+            "format": "moodle",
+            "text": "Choose the correct option."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 22,
+      "end": 22,
+      "text": "::U5 p49 11.1::Not many people {~=like~likes} raw fish."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 33,
+              "line": 22,
+              "column": 33
+            },
+            "end": {
+              "offset": 34,
+              "line": 22,
+              "column": 34
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 34,
+              "line": 22,
+              "column": 34
+            },
+            "end": {
+              "offset": 35,
+              "line": 22,
+              "column": 35
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 39,
+              "line": 22,
+              "column": 39
+            },
+            "end": {
+              "offset": 40,
+              "line": 22,
+              "column": 40
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 24,
+      "end": 24,
+      "text": "::U5 p49 11.2::Two thousand five hundred calories per day {~=is~are} enough for the average man."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 60,
+              "line": 24,
+              "column": 60
+            },
+            "end": {
+              "offset": 61,
+              "line": 24,
+              "column": 61
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 61,
+              "line": 24,
+              "column": 61
+            },
+            "end": {
+              "offset": 62,
+              "line": 24,
+              "column": 62
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 64,
+              "line": 24,
+              "column": 64
+            },
+            "end": {
+              "offset": 65,
+              "line": 24,
+              "column": 65
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 26,
+      "end": 26,
+      "text": "::U5 p49 11.3::Everyone {~need~=needs} to eat a balanced diet."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 31,
+              "line": 26,
+              "column": 31
+            },
+            "end": {
+              "offset": 32,
+              "line": 26,
+              "column": 32
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 28,
+      "end": 28,
+      "text": "::U5 p49 11.4::Eating a lot of fresh vegetables and cheese {~=is~are} good for you."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 61,
+              "line": 28,
+              "column": 61
+            },
+            "end": {
+              "offset": 62,
+              "line": 28,
+              "column": 62
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 62,
+              "line": 28,
+              "column": 62
+            },
+            "end": {
+              "offset": 63,
+              "line": 28,
+              "column": 63
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 65,
+              "line": 28,
+              "column": 65
+            },
+            "end": {
+              "offset": 66,
+              "line": 28,
+              "column": 66
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 30,
+      "end": 30,
+      "text": "::U5 p49 11.5::There {~=is~are} a lot of advice on the internet about eating a healthy diet."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 23,
+              "line": 30,
+              "column": 23
+            },
+            "end": {
+              "offset": 24,
+              "line": 30,
+              "column": 24
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 24,
+              "line": 30,
+              "column": 24
+            },
+            "end": {
+              "offset": 25,
+              "line": 30,
+              "column": 25
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 27,
+              "line": 30,
+              "column": 27
+            },
+            "end": {
+              "offset": 28,
+              "line": 30,
+              "column": 28
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 32,
+      "end": 32,
+      "text": "::U5 p49 11.6::Most of my family {~=eat~=eats} meat but I'm a vegetarian."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 35,
+              "line": 32,
+              "column": 35
+            },
+            "end": {
+              "offset": 36,
+              "line": 32,
+              "column": 36
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 36,
+              "line": 32,
+              "column": 36
+            },
+            "end": {
+              "offset": 37,
+              "line": 32,
+              "column": 37
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 40,
+              "line": 32,
+              "column": 40
+            },
+            "end": {
+              "offset": 41,
+              "line": 32,
+              "column": 41
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 41,
+              "line": 32,
+              "column": 41
+            },
+            "end": {
+              "offset": 42,
+              "line": 32,
+              "column": 42
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

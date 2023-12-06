@@ -1,0 +1,186 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 3,
+      "text": "::U5 p54 6.1 Passive::[html]People expect tourists to carry sticks to protect themselves from curious monkeys.<br />\n<b>ARE</b> <br />\nTourists {=are expected to carry =are expected to carry} sticks to protect themselves from curious monkeys."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p54 6.1 Passive",
+          "stem": {
+            "format": "html",
+            "text": "People expect tourists to carry sticks to protect themselves from curious monkeys.<br />\n<b>ARE</b> <br />\nTourists  _____ sticks to protect themselves from curious monkeys."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "are expected to carry"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "are expected to carry"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 6,
+      "text": "::U5 p54 6.2 Passive::[html]Most people think monkeys are a huge tourist attraction. <b>BE</b> <br />\nMonkeys {=are thought to be} a huge tourist attraction by most people."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p54 6.2 Passive",
+          "stem": {
+            "format": "html",
+            "text": "Most people think monkeys are a huge tourist attraction. <b>BE</b> <br />\nMonkeys  _____ a huge tourist attraction by most people."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "are thought to be"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 10,
+      "text": "::U5 p54 6.3 Passive::[html]Newspapers claim that twenty top chefs have been invited to prepare the meal. <b>BY</b> <br />\nIt {=is claimed by} newspapers that twenty top chefs have been invited<br />\nto prepare the meal."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p54 6.3 Passive",
+          "stem": {
+            "format": "html",
+            "text": "Newspapers claim that twenty top chefs have been invited to prepare the meal. <b>BY</b> <br />\nIt  _____ newspapers that twenty top chefs have been invited<br /> to prepare the meal."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "is claimed by"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 12,
+      "end": 13,
+      "text": "::U5 p54 6.4 Passive::[html]The tourist office has estimated that over 10,000 visitors watch the feast. <b>BEEN</b> <br />\nIt {=has been estimated} that over 10,000 visitors watch the feast."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p54 6.4 Passive",
+          "stem": {
+            "format": "html",
+            "text": "The tourist office has estimated that over 10,000 visitors watch the feast. <b>BEEN</b> <br />\nIt  _____ that over 10,000 visitors watch the feast."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "has been estimated"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 16,
+      "text": "::U5 p54 6.5 Passive::[html]Everyone says monkeys can be very aggressive around food. <b>TO</b> <br />\nMonkeys {=are said to} be very aggressive around food."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U5 p54 6.5 Passive",
+          "stem": {
+            "format": "html",
+            "text": "Everyone says monkeys can be very aggressive around food. <b>TO</b> <br />\nMonkeys  _____ be very aggressive around food."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "are said to"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

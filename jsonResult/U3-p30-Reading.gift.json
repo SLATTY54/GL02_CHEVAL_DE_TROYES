@@ -1,0 +1,334 @@
+[
+  {
+    "location": {
+      "start": 4,
+      "end": 9,
+      "text": "::U3 p30 4.1::What is the writer's attitude towards football fans attending matches? {\n  ~She's impressed by their behaviour.\n  ~She's surprised by how much money they spend.\n  ~She's embarrassed by how irresponsible they are.\n  ~=She's sympathetic to their feelings.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 230,
+              "line": 8,
+              "column": 3
+            },
+            "end": {
+              "offset": 231,
+              "line": 8,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 16,
+      "text": "::U3 p30 4.2::The writer mentions people who live ‘in a dream state’ in order to {\n  ~give an example of people who have uncontrollable emotions.\n  ~criticise people who have unrealistic expectations.\n  ~=contrast different types of emotional attachments.\n  ~explain why passions can be more important than real relationships.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 204,
+              "line": 14,
+              "column": 3
+            },
+            "end": {
+              "offset": 205,
+              "line": 14,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 18,
+      "end": 23,
+      "text": "::U3 p30 4.3::The writer thinks having a passion is a good thing because {\n  ~=it helps people learn how to express their emotions.\n  ~it encourages more considerate behaviour.\n  ~it gives people an opportunity to act like a different person.\n  ~it makes everything else in life seem unimportant.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 78,
+              "line": 19,
+              "column": 3
+            },
+            "end": {
+              "offset": 79,
+              "line": 19,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 79,
+              "line": 19,
+              "column": 4
+            },
+            "end": {
+              "offset": 80,
+              "line": 19,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 135,
+              "line": 20,
+              "column": 3
+            },
+            "end": {
+              "offset": 136,
+              "line": 20,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 180,
+              "line": 21,
+              "column": 3
+            },
+            "end": {
+              "offset": 181,
+              "line": 21,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 246,
+              "line": 22,
+              "column": 3
+            },
+            "end": {
+              "offset": 247,
+              "line": 22,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 30,
+      "text": "::U3 p30 4.4::What does the writer mean by ‘thin on the ground’ in line 30? {\n  ~Something which is easily forgotten.\n  ~=Something which occurs infrequently.\n  ~Something which takes place only once.\n  ~Something which is unexpected.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 121,
+              "line": 27,
+              "column": 3
+            },
+            "end": {
+              "offset": 122,
+              "line": 27,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 32,
+      "end": 37,
+      "text": "::U3 p30 4.5::The writer mentions Wimbledon to show that {\n  ~some sports are less likely to inspire strong feelings.\n  ~some passions last for many years.\n  ~=sports fans can behave uncharacteristically.\n  ~people often behave strangely to get on TV.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 159,
+              "line": 35,
+              "column": 3
+            },
+            "end": {
+              "offset": 160,
+              "line": 35,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 39,
+      "end": 44,
+      "text": "::U3 p30 4.6::What was the writer's purpose in writing this text? {\n  ~To encourage people to talk about their passions openly.\n  ~To convince the reader that sports fans are normal human beings.\n  ~To explain why the excitement of winning is worth the disappointment of losing.\n  ~=To argue that a passion for sport provides an opportunity to experience highs and lows.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 282,
+              "line": 43,
+              "column": 3
+            },
+            "end": {
+              "offset": 283,
+              "line": 43,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

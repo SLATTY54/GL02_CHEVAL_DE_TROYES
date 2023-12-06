@@ -1,0 +1,205 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 5,
+      "text": "::EM U42 Ultimate q1::What's the answer to this multiple-choice question? {\n  ~wrong answer#feedback comment on the wrong answer\n  ~another wrong answer#feedback comment on this wrong answer\n  =right answer#Very good!\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "EM U42 Ultimate q1",
+          "stem": {
+            "format": "moodle",
+            "text": "What's the answer to this multiple-choice question?"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "wrong answer"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "feedback comment on the wrong answer"
+              }
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "another wrong answer"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "feedback comment on this wrong answer"
+              }
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "right answer"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "Very good!"
+              }
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 12,
+      "text": "::EM U42 Ultimate q2::Deep Thought said \" {\n  =forty two#Correct according to The Hitchhiker's Guide to the Galaxy!\n  =42#Correct, as told to Loonquawl and Phouchg\n  =forty-two#Correct!\n}  is the Ultimate Answer to the Ultimate Question of Life, The Universe, and Everything.\""
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "EM U42 Ultimate q2",
+          "stem": {
+            "format": "moodle",
+            "text": "Deep Thought said \" _____ is the Ultimate Answer to the Ultimate Question of Life, The Universe, and Everything.\""
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "forty two"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "Correct according to The Hitchhiker's Guide to the Galaxy!"
+              }
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "42"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "Correct, as told to Loonquawl and Phouchg"
+              }
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "forty-two"
+              },
+              "feedback": {
+                "format": "moodle",
+                "text": "Correct!"
+              }
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 14,
+      "end": 16,
+      "text": "::EM U42 Ultimate q3::\n42 is the Absolute Answer to everything.{\nFALSE#42is the Ultimate Answer.#You gave the right answer.}"
+    },
+    "result": [
+      [
+        {
+          "type": "TF",
+          "title": "EM U42 Ultimate q3",
+          "stem": {
+            "format": "moodle",
+            "text": "42 is the Absolute Answer to everything."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "isTrue": false,
+          "incorrectFeedback": {
+            "format": "moodle",
+            "text": "42is the Ultimate Answer."
+          },
+          "correctFeedback": {
+            "format": "moodle",
+            "text": "You gave the right answer."
+          },
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 18,
+      "end": 20,
+      "text": "::EM U42 Ultimate q4::When was Ulysses S. Grant born? {#\n   =1822:0\n   =%50%1822:2\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "Numerical",
+          "title": "EM U42 Ultimate q4",
+          "stem": {
+            "format": "moodle",
+            "text": "When was Ulysses S. Grant born?"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "type": "range",
+                "number": 1822,
+                "range": 0
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": 50,
+              "text": {
+                "type": "range",
+                "number": 1822,
+                "range": 2
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

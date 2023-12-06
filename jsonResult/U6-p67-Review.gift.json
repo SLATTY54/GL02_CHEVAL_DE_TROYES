@@ -1,0 +1,1476 @@
+[
+  {
+    "location": {
+      "start": 3,
+      "end": 3,
+      "text": "::U6 p67 Rev1.0::Complete the sentences using the correct form of the word in brackets."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U6 p67 Rev1.0",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences using the correct form of the word in brackets."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 5,
+      "text": "::U6 p67 Rev1.1::[html]Some people think that new technology will lead to the {=destruction} (<i>destroy</i>) of the film industry."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.1",
+          "stem": {
+            "format": "html",
+            "text": "Some people think that new technology will lead to the  _____ (<i>destroy</i>) of the film industry."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "destruction"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 7,
+      "end": 7,
+      "text": "::U6 p67 Rev1.2::[html]An {=excessive} (<i>excess</i>) amount of practice can lead to more injuries for dancers."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.2",
+          "stem": {
+            "format": "html",
+            "text": "An  _____ (<i>excess</i>) amount of practice can lead to more injuries for dancers."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "excessive"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 9,
+      "end": 9,
+      "text": "::U6 p67 Rev1.3::[html]There is no {=evidence} (<i>evident</i>) as yet that robots will be a serious threat to jobs."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.3",
+          "stem": {
+            "format": "html",
+            "text": "There is no  _____ (<i>evident</i>) as yet that robots will be a serious threat to jobs."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "evidence"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 11,
+      "end": 11,
+      "text": "::U6 p67 Rev1.4::[html]The film is a {=fictional} (<i>fiction</i>) account of a great painter's life."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.4",
+          "stem": {
+            "format": "html",
+            "text": "The film is a  _____ (<i>fiction</i>) account of a great painter's life."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "fictional"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 13,
+      "text": "::U6 p67 Rev1.5::[html]I sometimes like to escape from {=reality} (<i>real</i>) by going to a musical."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.5",
+          "stem": {
+            "format": "html",
+            "text": "I sometimes like to escape from  _____ (<i>real</i>) by going to a musical."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "reality"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 15,
+      "text": "::U6 p67 Rev1.6::[html]We wanted to see a film, but there wasn't much {=choice} (<i>choose</i>)."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev1.6",
+          "stem": {
+            "format": "html",
+            "text": "We wanted to see a film, but there wasn't much  _____ (<i>choose</i>)."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "choice"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 19,
+      "text": "::U6 p67 Rev2.0 ::Complete the sentences with the words in the box."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U6 p67 Rev2.0 ",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences with the words in the box."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 21,
+      "end": 21,
+      "text": "::U6 p67 Rev2.1::The only way I can get {~away~down~into~over~round~=through} to my cousin is by talking about dance."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 68,
+              "line": 21,
+              "column": 68
+            },
+            "end": {
+              "offset": 69,
+              "line": 21,
+              "column": 69
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 23,
+      "end": 23,
+      "text": "::U6 p67 Rev2.2::<i>City Lights</i> is on TV tonight. I never got {~away~down~into~over~=round~through} to seeing that at the cinema."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 88,
+              "line": 23,
+              "column": 88
+            },
+            "end": {
+              "offset": 89,
+              "line": 23,
+              "column": 89
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 25,
+      "text": "::U6 p67 Rev2.3::It took him ages to get {~away~down~into~=over~round~through} the disappointment of not being in the play."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 58,
+              "line": 25,
+              "column": 58
+            },
+            "end": {
+              "offset": 59,
+              "line": 25,
+              "column": 59
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 27,
+      "end": 27,
+      "text": "::U6 p67 Rev2.4::If I stay in every night watching TV, it gets me {~away~=down~into~over~round~through}."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 73,
+              "line": 27,
+              "column": 73
+            },
+            "end": {
+              "offset": 74,
+              "line": 27,
+              "column": 74
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 29,
+      "end": 29,
+      "text": "::U6 p67 Rev2.5::Comedians can't get {~=away~down~into~over~round~through} with simply repeating the same jokes at every performance."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 39,
+              "line": 29,
+              "column": 39
+            },
+            "end": {
+              "offset": 40,
+              "line": 29,
+              "column": 40
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 40,
+              "line": 29,
+              "column": 40
+            },
+            "end": {
+              "offset": 41,
+              "line": 29,
+              "column": 41
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 45,
+              "line": 29,
+              "column": 45
+            },
+            "end": {
+              "offset": 46,
+              "line": 29,
+              "column": 46
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 50,
+              "line": 29,
+              "column": 50
+            },
+            "end": {
+              "offset": 51,
+              "line": 29,
+              "column": 51
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 55,
+              "line": 29,
+              "column": 55
+            },
+            "end": {
+              "offset": 56,
+              "line": 29,
+              "column": 56
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 60,
+              "line": 29,
+              "column": 60
+            },
+            "end": {
+              "offset": 61,
+              "line": 29,
+              "column": 61
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 66,
+              "line": 29,
+              "column": 66
+            },
+            "end": {
+              "offset": 67,
+              "line": 29,
+              "column": 67
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 31,
+      "end": 31,
+      "text": "::U6 p67 Rev2.6::Everyone says it's a really good series, but I just can't get {~away~down~=into~over~round~through} it."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 91,
+              "line": 31,
+              "column": 91
+            },
+            "end": {
+              "offset": 92,
+              "line": 31,
+              "column": 92
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 36,
+      "end": 36,
+      "text": "::U6 p67 Rev3.0::Complete the sentences with the future continuous or future perfect form of the verbs in brackets."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U6 p67 Rev3.0",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences with the future continuous or future perfect form of the verbs in brackets."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 38,
+      "end": 38,
+      "text": "::U6 p67 Rev3.1::[html]I think I'll still {=be learning} (<i>learn</i>) my lines until just before the play starts."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.1",
+          "stem": {
+            "format": "html",
+            "text": "I think I'll still  _____ (<i>learn</i>) my lines until just before the play starts."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "be learning"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 40,
+      "end": 40,
+      "text": "::U6 p67 Rev3.2::[html]The film may already {=have started|have started } (<i>start</i>) by the time we get there."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.2",
+          "stem": {
+            "format": "html",
+            "text": "The film may already  _____ (<i>start</i>) by the time we get there."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "have started|have started"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 42,
+      "end": 42,
+      "text": "::U6 p67 Rev3.3::[html]I hope they'll {=show =be showing} (<i>show</i>) his still lifes at the exhibition."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.3",
+          "stem": {
+            "format": "html",
+            "text": "I hope they'll  _____ (<i>show</i>) his still lifes at the exhibition."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "show"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "be showing"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 44,
+      "end": 44,
+      "text": "::U6 p67 Rev3.4::[html]We might {=use|be using} (<i>use</i>) the same costumes in our next production."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.4",
+          "stem": {
+            "format": "html",
+            "text": "We might  _____ (<i>use</i>) the same costumes in our next production."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "use|be using"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 46,
+      "end": 46,
+      "text": "::U6 p67 Rev3.5::[html]People will probably still {=watch =be watching} (<i>watch</i>) live theatre in fifty years' time."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.5",
+          "stem": {
+            "format": "html",
+            "text": "People will probably still  _____ (<i>watch</i>) live theatre in fifty years' time."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "watch"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "be watching"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 48,
+      "end": 48,
+      "text": "::U6 p67 Rev3.6::[html]I think people will {=have lost} (<i>lose</i>) interest in computer games a long time before 2025."
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p67 Rev3.6",
+          "stem": {
+            "format": "html",
+            "text": "I think people will  _____ (<i>lose</i>) interest in computer games a long time before 2025."
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "have lost"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 53,
+      "end": 53,
+      "text": "::U6 p67 Rev4.0::Choose the correct option."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U6 p67 Rev4.0",
+          "stem": {
+            "format": "moodle",
+            "text": "Choose the correct option."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 55,
+      "end": 55,
+      "text": "::U6 p67 Rev4.1::Sorry, I can't come on Saturday. I {~meet~=am meeting~will meet} an old school friend for lunch."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 59,
+              "line": 55,
+              "column": 59
+            },
+            "end": {
+              "offset": 60,
+              "line": 55,
+              "column": 60
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 57,
+      "end": 57,
+      "text": "::U6 p67 Rev4.2::As soon as she {~=phones~will phone~will be phoning}, will you text me?"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 34,
+              "line": 57,
+              "column": 34
+            },
+            "end": {
+              "offset": 35,
+              "line": 57,
+              "column": 35
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 35,
+              "line": 57,
+              "column": 35
+            },
+            "end": {
+              "offset": 36,
+              "line": 57,
+              "column": 36
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 42,
+              "line": 57,
+              "column": 42
+            },
+            "end": {
+              "offset": 43,
+              "line": 57,
+              "column": 43
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 53,
+              "line": 57,
+              "column": 53
+            },
+            "end": {
+              "offset": 54,
+              "line": 57,
+              "column": 54
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 59,
+      "end": 59,
+      "text": "::U6 p67 Rev4.3::I {~will be completing~=will have completed~am completing} my drama course by the end of next year."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 40,
+              "line": 59,
+              "column": 40
+            },
+            "end": {
+              "offset": 41,
+              "line": 59,
+              "column": 41
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 61,
+      "end": 61,
+      "text": "::U6 p67 Rev4.4::This time tomorrow, I {~will dance~=will be dancing~dance} in front of hundreds of people."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 52,
+              "line": 61,
+              "column": 52
+            },
+            "end": {
+              "offset": 53,
+              "line": 61,
+              "column": 53
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 63,
+      "end": 63,
+      "text": "::U6 p67 Rev4.5::Don't worry, I haven't forgotten. I {~speak~will have spoken~=am going to speak} to him later."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 78,
+              "line": 63,
+              "column": 78
+            },
+            "end": {
+              "offset": 79,
+              "line": 63,
+              "column": 79
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 65,
+      "end": 65,
+      "text": "::U6 p67 Rev4.6::I'll meet you after I {~=finish~am finishing~will finish} work."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 41,
+              "line": 65,
+              "column": 41
+            },
+            "end": {
+              "offset": 42,
+              "line": 65,
+              "column": 42
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 42,
+              "line": 65,
+              "column": 42
+            },
+            "end": {
+              "offset": 43,
+              "line": 65,
+              "column": 43
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 49,
+              "line": 65,
+              "column": 49
+            },
+            "end": {
+              "offset": 50,
+              "line": 65,
+              "column": 50
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 62,
+              "line": 65,
+              "column": 62
+            },
+            "end": {
+              "offset": 63,
+              "line": 65,
+              "column": 63
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 67,
+      "end": 67,
+      "text": "::U6 p67 Rev4.7::Don't be nervous. I'm sure you {~do~are doing~=will do} really well tomorrow."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 67,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 67,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 69,
+      "end": 69,
+      "text": "::U6 p67 Rev4.8::Let's hurry! They {~=close~are going to close~are closing} the theatre doors at 7.30 and then you have to wait until the interval to go in."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 37,
+              "line": 69,
+              "column": 37
+            },
+            "end": {
+              "offset": 38,
+              "line": 69,
+              "column": 38
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 38,
+              "line": 69,
+              "column": 38
+            },
+            "end": {
+              "offset": 39,
+              "line": 69,
+              "column": 39
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 44,
+              "line": 69,
+              "column": 44
+            },
+            "end": {
+              "offset": 45,
+              "line": 69,
+              "column": 45
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 69,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 69,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

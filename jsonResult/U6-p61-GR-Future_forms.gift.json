@@ -1,0 +1,472 @@
+[
+  {
+    "location": {
+      "start": 2,
+      "end": 2,
+      "text": "::U6 p61 GR 1.0 Future forms::Complete the sentences with the correct future form of the verb in brackets."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U6 p61 GR 1.0 Future forms",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences with the correct future form of the verb in brackets."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 4,
+      "end": 4,
+      "text": "::U6 p61 GR 1.1 Future forms::[html]The school year in Britain always {=ends} in July. (<i>end</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.1 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "The school year in Britain always  _____ in July. (<i>end</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "ends"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 6,
+      "end": 6,
+      "text": "::U6 p61 GR 1.2 Future forms::[html]She assures me that she {=will get='ll get} there on time. (<i>get</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.2 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "She assures me that she  _____ there on time. (<i>get</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "will get"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "'ll get"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 8,
+      "text": "::U6 p61 GR 1.3 Future forms::[html]She {=is going to apply='s going to apply} to drama college, whatever her parents say. (<i>apply</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.3 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "She  _____ to drama college, whatever her parents say. (<i>apply</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "is going to apply"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "'s going to apply"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 10,
+      "end": 10,
+      "text": "::U6 p61 GR 1.4 Future forms::[html]They're rehearsing so hard – I'm sure the performance {=will be} a great success. (<i>be</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.4 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "They're rehearsing so hard – I'm sure the performance  _____ a great success. (<i>be</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "will be"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 12,
+      "end": 12,
+      "text": "::U6 p61 GR 1.5 Future forms::[html]You know, I think I {=will invite='ll invite} Steve to the party after all. (<i>invite</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.5 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "You know, I think I  _____ Steve to the party after all. (<i>invite</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "will invite"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "'ll invite"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 14,
+      "end": 14,
+      "text": "::U6 p61 GR 1.6 Future forms::[html]{=Shall=shall} I {=tell} you a secret? (<i>tell</i>)"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" or Question stem but \"[\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "Question stem"
+            },
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": "[",
+          "location": {
+            "start": {
+              "offset": 31,
+              "line": 14,
+              "column": 31
+            },
+            "end": {
+              "offset": 32,
+              "line": 14,
+              "column": 32
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 16,
+      "end": 16,
+      "text": "::U6 p61 GR 1.7 Future forms::[html]I think you {=will find='ll find} that it's actually quite simple if you follow my instructions. (<i>find</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.7 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "I think you  _____ that it's actually quite simple if you follow my instructions. (<i>find</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "will find"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "'ll find"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 18,
+      "end": 18,
+      "text": "::U6 p61 GR 1.8 Future forms::[html]They {=are holding='re holding} a music festival in our town in July. (<i>hold</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.8 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "They  _____ a music festival in our town in July. (<i>hold</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "are holding"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "'re holding"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 20,
+      "end": 20,
+      "text": "::U6 p61 GR 1.9 Future forms::[html]He'll open the door as soon as he {=sees} us. (<i>see</i>)"
+    },
+    "result": [
+      [
+        {
+          "type": "Short",
+          "title": "U6 p61 GR 1.9 Future forms",
+          "stem": {
+            "format": "html",
+            "text": "He'll open the door as soon as he  _____ us. (<i>see</i>)"
+          },
+          "hasEmbeddedAnswers": true,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "html",
+                "text": "sees"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 24,
+      "end": 33,
+      "text": "::U6 p61 GR 2 Future forms::Match the uses of future forms to the examples. {\n  =<i>will</i> (a promise)                                 -> I won't tell anyone\n  =<i>will</i> (an expert opinion)                         -> The road will be closed.\n  =<i>will</i> (a decision made at the moment of speaking) -> I'll call Graham now, shall I?\n  =<i>going to</i> (an opinion based on present evidence)  -> She's gone very pale – she's going to faint.\n  =<i>going to</i> (a personal intention)                  -> I'm going to apply to university next year.\n  =Present continuous (a planned event)                    -> They're getting married sometime next year.\n  =Present simple (a timetabled event)                     -> The conference is in the first week of April.\n  =Present simple (a time clause with a future meaning)    -> When you arrive at the airport, phone me.\n  }"
+    },
+    "result": [
+      [
+        {
+          "type": "Matching",
+          "title": "U6 p61 GR 2 Future forms",
+          "stem": {
+            "format": "moodle",
+            "text": "Match the uses of future forms to the examples."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "matchPairs": [
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "<i>will</i> (a promise)"
+              },
+              "subanswer": "I won't tell anyone"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "<i>will</i> (an expert opinion)"
+              },
+              "subanswer": "The road will be closed."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "<i>will</i> (a decision made at the moment of speaking)"
+              },
+              "subanswer": "I'll call Graham now, shall I?"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "<i>going to</i> (an opinion based on present evidence)"
+              },
+              "subanswer": "She's gone very pale – she's going to faint."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "<i>going to</i> (a personal intention)"
+              },
+              "subanswer": "I'm going to apply to university next year."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "Present continuous (a planned event)"
+              },
+              "subanswer": "They're getting married sometime next year."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "Present simple (a timetabled event)"
+              },
+              "subanswer": "The conference is in the first week of April."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "Present simple (a time clause with a future meaning)"
+              },
+              "subanswer": "When you arrive at the airport, phone me."
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

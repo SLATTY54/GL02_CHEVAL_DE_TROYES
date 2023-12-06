@@ -1,0 +1,638 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 2,
+      "text": "::U6 p60 Listening Audio1::You will hear people talking in eight different situations. First, identify the key words in the question below. Then listen and choose the best answer.\nhttps://serge.bibauw.be/teaching/english5/gold_b2_cb_18_u6_p60_listening.mp3"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 185,
+              "line": 2,
+              "column": 6
+            },
+            "end": {
+              "offset": 186,
+              "line": 2,
+              "column": 7
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 4,
+      "end": 8,
+      "text": "::U6 p60 Listening 1.1::You hear a woman talking about a play. What did she dislike about it?{\n  ~=the lighting\n  ~the music\n  ~the costumes\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 98,
+              "line": 5,
+              "column": 3
+            },
+            "end": {
+              "offset": 99,
+              "line": 5,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 99,
+              "line": 5,
+              "column": 4
+            },
+            "end": {
+              "offset": 100,
+              "line": 5,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 115,
+              "line": 6,
+              "column": 3
+            },
+            "end": {
+              "offset": 116,
+              "line": 6,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 128,
+              "line": 7,
+              "column": 3
+            },
+            "end": {
+              "offset": 129,
+              "line": 7,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 10,
+      "end": 11,
+      "text": "::U6 p60 Listening Audio2::Identify the key words in the following questions. Then listen and choose the best answer.\nhttps://serge.bibauw.be/teaching/english5/gold_b2_cb_19_u6_p60_listening.mp3"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 124,
+              "line": 11,
+              "column": 6
+            },
+            "end": {
+              "offset": 125,
+              "line": 11,
+              "column": 7
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 17,
+      "text": "::U6 p60 Listening 3.2::You hear a man and a woman talking about a visit to the theatre. How does the woman feel about the arrangements? {\n  ~annoyed that the play finishes so late\n  ~=worried about when they’re going to eat\n  ~confused about what time the play starts\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 184,
+              "line": 15,
+              "column": 3
+            },
+            "end": {
+              "offset": 185,
+              "line": 15,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 23,
+      "text": "::U6 p60 Listening 3.3::You hear part of a radio programme. What kind of programme is it? {\n  ~a celebrity interview\n  ~a film review\n  ~=a news show\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 137,
+              "line": 22,
+              "column": 3
+            },
+            "end": {
+              "offset": 138,
+              "line": 22,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 29,
+      "text": "::U6 p60 Listening 3.4::You hear a woman giving some information on the radio about a comedy festival. Why is it going to be different this year? {\n  ~The tickets will be more expensive.\n  ~It will be held in a smaller venue.\n  ~=It will be on different dates.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 229,
+              "line": 28,
+              "column": 3
+            },
+            "end": {
+              "offset": 230,
+              "line": 28,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 31,
+      "end": 35,
+      "text": "::U6 p60 Listening 3.5::You hear a man interviewing a ballet dancer on the radio. Why has she decided to retire later this year? {\n  ~She is worried about getting injured.\n  ~She no longer enjoys performing.\n  ~=She wants to make her family the priority.\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 211,
+              "line": 34,
+              "column": 3
+            },
+            "end": {
+              "offset": 212,
+              "line": 34,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 37,
+      "end": 41,
+      "text": "::U6 p60 Listening 3.6::You hear a man and a woman talking on the radio about a new art exhibition. What do they agree is special about it? {\n  ~=the variety of genres\n  ~the unusual location\n  ~the famous artists\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 145,
+              "line": 38,
+              "column": 3
+            },
+            "end": {
+              "offset": 146,
+              "line": 38,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 146,
+              "line": 38,
+              "column": 4
+            },
+            "end": {
+              "offset": 147,
+              "line": 38,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 171,
+              "line": 39,
+              "column": 3
+            },
+            "end": {
+              "offset": 172,
+              "line": 39,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 195,
+              "line": 40,
+              "column": 3
+            },
+            "end": {
+              "offset": 196,
+              "line": 40,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 43,
+      "end": 47,
+      "text": "::U6 p60 Listening 3.7::You hear an actress being interviewed on the radio. What is she doing? {\n  ~=giving her opinion about the topic of the play\n  ~describing her relationship with the director\n  ~stating a wish to direct a play herself\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 100,
+              "line": 44,
+              "column": 3
+            },
+            "end": {
+              "offset": 101,
+              "line": 44,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 101,
+              "line": 44,
+              "column": 4
+            },
+            "end": {
+              "offset": 102,
+              "line": 44,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 151,
+              "line": 45,
+              "column": 3
+            },
+            "end": {
+              "offset": 152,
+              "line": 45,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 200,
+              "line": 46,
+              "column": 3
+            },
+            "end": {
+              "offset": 201,
+              "line": 46,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 49,
+      "end": 53,
+      "text": "::U6 p60 Listening 3.8::You hear a man and a woman talking. Who is the man? {\n  ~her brother\n  ~her teacher\n  ~=her friend\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 111,
+              "line": 52,
+              "column": 3
+            },
+            "end": {
+              "offset": 112,
+              "line": 52,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

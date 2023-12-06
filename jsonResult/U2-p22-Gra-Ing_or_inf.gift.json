@@ -1,0 +1,779 @@
+[
+  {
+    "location": {
+      "start": 2,
+      "end": 2,
+      "text": "$CATEGORY: $course$/top/Gold B2, Unit 2/Grammar/Verb patterns"
+    },
+    "result": [
+      [
+        {
+          "type": "Category",
+          "title": "$course$/top/Gold B2, Unit 2/Grammar/Verb patterns"
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 4,
+      "end": 10,
+      "text": "::U2 p22 3 – Verb patterns -ing or inf::Match the clauses to make sentences.{\n\t=It took me ages to have the confidence -> to be on my own with him.\n\t=It's not worth -> talking to him really because he just disagrees with whatever anybody says.\n\t=We both love -> riding, so it's great to have something in common.\n\t=We'd like him -> to come and live nearer.\n\t=I've promised -> to give him tennis lessons.\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "Matching",
+          "title": "U2 p22 3 – Verb patterns -ing or inf",
+          "stem": {
+            "format": "moodle",
+            "text": "Match the clauses to make sentences."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "matchPairs": [
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "It took me ages to have the confidence"
+              },
+              "subanswer": "to be on my own with him."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "It's not worth"
+              },
+              "subanswer": "talking to him really because he just disagrees with whatever anybody says."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "We both love"
+              },
+              "subanswer": "riding, so it's great to have something in common."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "We'd like him"
+              },
+              "subanswer": "to come and live nearer."
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "I've promised"
+              },
+              "subanswer": "to give him tennis lessons."
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 13,
+      "end": 13,
+      "text": "::U2 p22 6.1a – Verb patterns -ing or inf::My mother stopped {~=making~to make} lunch because the phone rang."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 13,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 13,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 64,
+              "line": 13,
+              "column": 64
+            },
+            "end": {
+              "offset": 65,
+              "line": 13,
+              "column": 65
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 71,
+              "line": 13,
+              "column": 71
+            },
+            "end": {
+              "offset": 72,
+              "line": 13,
+              "column": 72
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 15,
+      "end": 15,
+      "text": "::U2 p22 6.1b – Verb patterns -ing or inf::My mother stopped {~making~=to make} lunch because we were hungry."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 70,
+              "line": 15,
+              "column": 70
+            },
+            "end": {
+              "offset": 71,
+              "line": 15,
+              "column": 71
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 17,
+      "end": 17,
+      "text": "::U2 p22 6.2a – Verb patterns -ing or inf::Dad tried {~=phoning~to phone} but nobody answered."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 55,
+              "line": 17,
+              "column": 55
+            },
+            "end": {
+              "offset": 56,
+              "line": 17,
+              "column": 56
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 56,
+              "line": 17,
+              "column": 56
+            },
+            "end": {
+              "offset": 57,
+              "line": 17,
+              "column": 57
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 64,
+              "line": 17,
+              "column": 64
+            },
+            "end": {
+              "offset": 65,
+              "line": 17,
+              "column": 65
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 19,
+      "text": "::U2 p22 6.2b – Verb patterns -ing or inf::Dad tried {~phoning~=to phone} but he couldn't remember the number, so he gave up."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 19,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 19,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 21,
+      "end": 21,
+      "text": "::U2 p22 6.3a – Verb patterns -ing or inf::The kids remembered {~buying~=to buy} grandma a present for her birthday."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 72,
+              "line": 21,
+              "column": 72
+            },
+            "end": {
+              "offset": 73,
+              "line": 21,
+              "column": 73
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 23,
+      "end": 23,
+      "text": "::U2 p22 6.3b – Verb patterns -ing or inf::The kids remembered {~=buying~to buy} grandma a present but couldn't find it again later."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 65,
+              "line": 23,
+              "column": 65
+            },
+            "end": {
+              "offset": 66,
+              "line": 23,
+              "column": 66
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 66,
+              "line": 23,
+              "column": 66
+            },
+            "end": {
+              "offset": 67,
+              "line": 23,
+              "column": 67
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 73,
+              "line": 23,
+              "column": 73
+            },
+            "end": {
+              "offset": 74,
+              "line": 23,
+              "column": 74
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 25,
+      "text": "::U2 p22 6.4a – Verb patterns -ing or inf::I regret {~telling~=to tell} you that all train services have been cancelled."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 62,
+              "line": 25,
+              "column": 62
+            },
+            "end": {
+              "offset": 63,
+              "line": 25,
+              "column": 63
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 27,
+      "end": 27,
+      "text": "::U2 p22 6.4b – Verb patterns -ing or inf::I regret {~=telling~to tell} you because now you're upset."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 54,
+              "line": 27,
+              "column": 54
+            },
+            "end": {
+              "offset": 55,
+              "line": 27,
+              "column": 55
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 55,
+              "line": 27,
+              "column": 55
+            },
+            "end": {
+              "offset": 56,
+              "line": 27,
+              "column": 56
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 27,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 27,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 29,
+      "end": 29,
+      "text": "::U2 p22 6.5a – Verb patterns -ing or inf::I forgot {~to give~=giving} my sister an old dress, and then I found it in her wardrobe."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 62,
+              "line": 29,
+              "column": 62
+            },
+            "end": {
+              "offset": 63,
+              "line": 29,
+              "column": 63
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 31,
+      "end": 31,
+      "text": "::U2 p22 6.5b – Verb patterns -ing or inf::I forgot {~=to give~giving} my teacher my essay and she wasn't happy when I handed it in late."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 54,
+              "line": 31,
+              "column": 54
+            },
+            "end": {
+              "offset": 55,
+              "line": 31,
+              "column": 55
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 55,
+              "line": 31,
+              "column": 55
+            },
+            "end": {
+              "offset": 56,
+              "line": 31,
+              "column": 56
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 31,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 31,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "location": {
+      "start": 2,
+      "end": 2,
+      "text": "::U7 p76 GR2.0 Relative clauses::Complete the sentences with the words in the box. You can use the words more than once."
+    },
+    "result": [
+      [
+        {
+          "id": null,
+          "tags": null,
+          "type": "Description",
+          "title": "U7 p76 GR2.0 Relative clauses",
+          "stem": {
+            "format": "moodle",
+            "text": "Complete the sentences with the words in the box. You can use the words more than once."
+          },
+          "hasEmbeddedAnswers": false
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 4,
+      "end": 4,
+      "text": "::U7 p76 GR2.1 Relative clauses:: The letter is in the file {~when~=where~whom~whose~why} I keep my bills."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 67,
+              "line": 4,
+              "column": 67
+            },
+            "end": {
+              "offset": 68,
+              "line": 4,
+              "column": 68
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 6,
+      "end": 6,
+      "text": "::U7 p76 GR2.2 Relative clauses:: It wasn't clear {~when~where~whom~whose~=why} the children had stayed at home."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 74,
+              "line": 6,
+              "column": 74
+            },
+            "end": {
+              "offset": 75,
+              "line": 6,
+              "column": 75
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 8,
+      "end": 8,
+      "text": "::U7 p76 GR2.3 Relative clauses:: The lawyer from {~when~where~=whom~whose~why} we had received the advice was well known."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 63,
+              "line": 8,
+              "column": 63
+            },
+            "end": {
+              "offset": 64,
+              "line": 8,
+              "column": 64
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 10,
+      "end": 10,
+      "text": "::U7 p76 GR2.4 Relative clauses:: Please give Luke this message at any point {~=when~where~whom~whose~why} it is convenient."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 79,
+              "line": 10,
+              "column": 79
+            },
+            "end": {
+              "offset": 80,
+              "line": 10,
+              "column": 80
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 80,
+              "line": 10,
+              "column": 80
+            },
+            "end": {
+              "offset": 81,
+              "line": 10,
+              "column": 81
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 85,
+              "line": 10,
+              "column": 85
+            },
+            "end": {
+              "offset": 86,
+              "line": 10,
+              "column": 86
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 91,
+              "line": 10,
+              "column": 91
+            },
+            "end": {
+              "offset": 92,
+              "line": 10,
+              "column": 92
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 96,
+              "line": 10,
+              "column": 96
+            },
+            "end": {
+              "offset": 97,
+              "line": 10,
+              "column": 97
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 102,
+              "line": 10,
+              "column": 102
+            },
+            "end": {
+              "offset": 103,
+              "line": 10,
+              "column": 103
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 12,
+      "end": 12,
+      "text": "::U7 p76 GR2.5 Relative clauses:: The old men directed us to a small hotel, {~when~=where~whom~whose~why} we spent the night."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 83,
+              "line": 12,
+              "column": 83
+            },
+            "end": {
+              "offset": 84,
+              "line": 12,
+              "column": 84
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 14,
+      "end": 14,
+      "text": "::U7 p76 GR2.6 Relative clauses:: Can you name the person from {~when~where~=whom~whose~why} you received this information?"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 76,
+              "line": 14,
+              "column": 76
+            },
+            "end": {
+              "offset": 77,
+              "line": 14,
+              "column": 77
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 16,
+      "end": 16,
+      "text": "::U7 p76 GR2.7 Relative clauses:: The car, {~when~where~whom~=whose~why} owner was not insured, was involved in a crash."
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 61,
+              "line": 16,
+              "column": 61
+            },
+            "end": {
+              "offset": 62,
+              "line": 16,
+              "column": 62
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 19,
+      "end": 23,
+      "text": "::U7 p76 5 Relative clauses – Open writing::[html]Describe a popular place in your country and why people go there. Use the phrases below.<br>\n<i>It's a place which…</i><br>\n<i>It's somewhere that…</i><br>\n<i>The people who live there…</i><br>\n<i>One reason why people like it is…</i><br>{}"
+    },
+    "result": [
+      [
+        {
+          "type": "Essay",
+          "title": "U7 p76 5 Relative clauses – Open writing",
+          "stem": {
+            "format": "html",
+            "text": "Describe a popular place in your country and why people go there. Use the phrases below.<br>\n<i>It's a place which…</i><br>\n<i>It's somewhere that…</i><br>\n<i>The people who live there…</i><br>\n<i>One reason why people like it is…</i><br>"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]

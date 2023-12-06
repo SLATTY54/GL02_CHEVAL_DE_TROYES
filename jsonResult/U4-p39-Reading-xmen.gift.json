@@ -1,0 +1,1034 @@
+[
+  {
+    "location": {
+      "start": 1,
+      "end": 1,
+      "text": "$CATEGORY: $course$/top/Gold B2, Unit 4"
+    },
+    "result": [
+      [
+        {
+          "type": "Category",
+          "title": "$course$/top/Gold B2, Unit 4"
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 5,
+      "end": 14,
+      "text": "::U4 p38-9 Reading Text 'Real-life superhumans'::<h4>X-Men: The Real-life Superhumans</h4>\n<p><b>Disappointingly for comic-book fans, there is no equivalent to X-Men in the real world. But there ore o surprising number of people who - by way of genetic mutation - hove acquired abilities that could comfortably be classed as superhuman.</b></p>\n<h5>A. Liam Hoekstra</h5>\n<p>Born prematurely, it was feared that Liam Hoekstra would be in poor health as he grew up. If anything, the opposite was true and despite initial problems with his heart and kidneys, it was apparent by the age of only five months that Limn was developing superhuman strength. He was diagnosed with a rare condition characterised by an absence of myostati.n. This is a protein which regulates muscle development, a lack of which leads to the kind of physical attributes that athletes can only dream about: 40 percent more muscle than normal, breathtaking strength and speed and almost no body fat. It is possible that the myths about the Greek hero Hercules were based on individuals with this condition. There are no negative side-efef cts; the only possible drawback was that without adequate body fat, brain growth in childhood could be restricted. Thankfully, Liam seems unaffected. His condition is more than a medical rarity; it could help scientists unlock the secrets of muscle growth and deterioration and lead to new treatments for diseases which cause weakness, such as osteoporosis.</p>\n<h5>B. Wim Hof</h5>\n<p>One of the original characters in the <i>X-Men</i> was Bobby Drab:, otherwise known as Iceman. As far-fetched as it sounds, in the real world there is a real-life Iceman, called Wim Hof. He may not be able to turn everyday objects into ice, as Bobby Drake did, but he holds 20 world records related to resisting the cold, which he says is the result of meditation practices. Among Hof's achievements are standing submerged in an ice bath for one hour and 44 minutes and running a marathon in the Arctic Circle wearing only shorts. Over a period of 20 minutes in the ice bath his temperature and heart rate remained completely normal. Scientists have confirmed that Hof is indeed able to regulate his body functions; by controlling cell production he gains improved immunity and better cognitive performance. Hof believes the skill is attainable by anyone who can convince themselves they can do it.</p>\n<h5>C. Dean Karnazes</h5>\n<p>Dean Karnazes's muscles have extraordinary properties. Most people suffer intense fatigue and are forced to give up when too much exercising causes lactic acid to build up in their muscles. Not so Karnazes: his body clears the acid with such extraordinary efficiency that he can remain hydrated and functional for re1rnirkably long periods during feats of endurance. His 22-year career includes runmng 350 miles in 80 hours and 44 minutes without sleep, completing a 135-mile ultra-marathon in Death Valley, California, in temperatures of 49C and a marathon in each of the USA's 50 states on 50 consecutive days. Unaware of his 'gift' until he took part in a scientific study at the age of 30, he is convinced that there are people like him everywhere who have no idea they have this ability.</p>\n<h5>D. Isao Machii</h5>\n<p>The scientific world is totally confosed by lsao Machii, aJapanese practitioner of laido, the art of the samurai sword, who is the holder of several world records involving fast sword cuts. For one title he had to cut through a te1mis ball travelling at 440 miles per hour. His most impressive feat was when an airgun fired a 5mm plastic pellet at Maclm at a speed of 200mph. At this speed it is not likely that the human eye could track an object of this size and unimaginable that human reflexes could respond.Yet he was able to draw his sword and slice it in two when it was in mid­ air. A psychologist who observed the experiment said “He was expecting it before it happened - a unique form of anticipatory awareness, sort of like Spiderman.„</p>"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 59,
+              "line": 5,
+              "column": 59
+            },
+            "end": {
+              "offset": 60,
+              "line": 5,
+              "column": 60
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 877,
+              "line": 8,
+              "column": 506
+            },
+            "end": {
+              "offset": 878,
+              "line": 8,
+              "column": 507
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 1560,
+              "line": 10,
+              "column": 69
+            },
+            "end": {
+              "offset": 1561,
+              "line": 10,
+              "column": 70
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"{\" but \":\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "{",
+              "ignoreCase": false
+            }
+          ],
+          "found": ":",
+          "location": {
+            "start": {
+              "offset": 2632,
+              "line": 12,
+              "column": 209
+            },
+            "end": {
+              "offset": 2633,
+              "line": 12,
+              "column": 210
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 17,
+      "end": 22,
+      "text": "::U4 p38 Reading 4.01::Which person's superpower may be shared by other people who don't realise they have it {\n  ~A. Liam Hoekstra\n  ~B. Wim Hof\n  ~=C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 149,
+              "line": 20,
+              "column": 3
+            },
+            "end": {
+              "offset": 150,
+              "line": 20,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 25,
+      "end": 30,
+      "text": "::U4 p38 Reading 4.02::Which person's superpower is beneficial for the person's mental and physical health {\n  ~A. Liam Hoekstra\n  =B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U4 p38 Reading 4.02",
+          "stem": {
+            "format": "moodle",
+            "text": "Which person's superpower is beneficial for the person's mental and physical health"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "A. Liam Hoekstra"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "B. Wim Hof"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "C. Dean Karnazes"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "D. Isao Machii"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 33,
+      "end": 38,
+      "text": "::U4 p38 Reading 4.03::Which person's superpower could potentially affect a person's mental development {\n  ~=A. Liam Hoekstra\n  ~B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 109,
+              "line": 34,
+              "column": 3
+            },
+            "end": {
+              "offset": 110,
+              "line": 34,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 110,
+              "line": 34,
+              "column": 4
+            },
+            "end": {
+              "offset": 111,
+              "line": 34,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 130,
+              "line": 35,
+              "column": 3
+            },
+            "end": {
+              "offset": 131,
+              "line": 35,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 144,
+              "line": 36,
+              "column": 3
+            },
+            "end": {
+              "offset": 145,
+              "line": 36,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 164,
+              "line": 37,
+              "column": 3
+            },
+            "end": {
+              "offset": 165,
+              "line": 37,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 41,
+      "end": 46,
+      "text": "::U4 p38 Reading 4.04::Which person's superpower requires theoretically impossibly quick reactions? {\n  ~A. Liam Hoekstra\n  ~B. Wim Hof\n  ~C. Dean Karnazes\n  ~=D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 159,
+              "line": 45,
+              "column": 3
+            },
+            "end": {
+              "offset": 160,
+              "line": 45,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 49,
+      "end": 54,
+      "text": "::U4 p38 Reading 4.05::Which person's superpower may have inspired the story of a legendary character {\n  ~=A. Liam Hoekstra\n  ~B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 107,
+              "line": 50,
+              "column": 3
+            },
+            "end": {
+              "offset": 108,
+              "line": 50,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 108,
+              "line": 50,
+              "column": 4
+            },
+            "end": {
+              "offset": 109,
+              "line": 50,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 128,
+              "line": 51,
+              "column": 3
+            },
+            "end": {
+              "offset": 129,
+              "line": 51,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 142,
+              "line": 52,
+              "column": 3
+            },
+            "end": {
+              "offset": 143,
+              "line": 52,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 162,
+              "line": 53,
+              "column": 3
+            },
+            "end": {
+              "offset": 163,
+              "line": 53,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 57,
+      "end": 62,
+      "text": "::U4 p38 Reading 4.06::Which person's superpower may help give an insight into curing certain illnesses {\n  ~=A. Liam Hoekstra\n  ~B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\", Single short answer { ... }, {#... }, {= match1 -> Match1\n...}, {=correct choice ~incorrect choice ... }, or {T} or {F} or {TRUE} or {FALSE} but \"~\" found.",
+          "expected": [
+            {
+              "type": "other",
+              "description": "{= match1 -> Match1\n...}"
+            },
+            {
+              "type": "other",
+              "description": "{T} or {F} or {TRUE} or {FALSE}"
+            },
+            {
+              "type": "other",
+              "description": "{=correct choice ~incorrect choice ... }"
+            },
+            {
+              "type": "other",
+              "description": "{#... }"
+            },
+            {
+              "type": "other",
+              "description": "Single short answer { ... }"
+            },
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 109,
+              "line": 58,
+              "column": 3
+            },
+            "end": {
+              "offset": 110,
+              "line": 58,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"=\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "=",
+          "location": {
+            "start": {
+              "offset": 110,
+              "line": 58,
+              "column": 4
+            },
+            "end": {
+              "offset": 111,
+              "line": 58,
+              "column": 5
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 130,
+              "line": 59,
+              "column": 3
+            },
+            "end": {
+              "offset": 131,
+              "line": 59,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 144,
+              "line": 60,
+              "column": 3
+            },
+            "end": {
+              "offset": 145,
+              "line": 60,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        },
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 164,
+              "line": 61,
+              "column": 3
+            },
+            "end": {
+              "offset": 165,
+              "line": 61,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 65,
+      "end": 70,
+      "text": "::U4 p38 Reading 4.07::Which person's superpower was eventually discovered by chance? {\n  ~A. Liam Hoekstra\n  ~B. Wim Hof\n  ~=C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 125,
+              "line": 68,
+              "column": 3
+            },
+            "end": {
+              "offset": 126,
+              "line": 68,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 73,
+      "end": 78,
+      "text": "::U4 p38 Reading 4.08::Which person's superpower is believed by the person to be a question of mind over body {\n  ~A. Liam Hoekstra\n  =B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U4 p38 Reading 4.08",
+          "stem": {
+            "format": "moodle",
+            "text": "Which person's superpower is believed by the person to be a question of mind over body"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "A. Liam Hoekstra"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "B. Wim Hof"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "C. Dean Karnazes"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "D. Isao Machii"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 81,
+      "end": 86,
+      "text": "::U4 p38 Reading 4.09::Which person's superpower could be acquired by whoever is prepared to believe in it {\n  ~A. Liam Hoekstra\n  =B. Wim Hof\n  ~C. Dean Karnazes\n  ~D. Isao Machii\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "MC",
+          "title": "U4 p38 Reading 4.09",
+          "stem": {
+            "format": "moodle",
+            "text": "Which person's superpower could be acquired by whoever is prepared to believe in it"
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "choices": [
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "A. Liam Hoekstra"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": true,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "B. Wim Hof"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "C. Dean Karnazes"
+              },
+              "feedback": null
+            },
+            {
+              "isCorrect": false,
+              "weight": null,
+              "text": {
+                "format": "moodle",
+                "text": "D. Isao Machii"
+              },
+              "feedback": null
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 89,
+      "end": 94,
+      "text": "::U4 p38 Reading 4.10::Which person's superpower cannot be explained by scientists? {\n  ~A. Liam Hoekstra\n  ~B. Wim Hof\n  ~C. Dean Karnazes\n  ~=D. Isao Machii\n}"
+    },
+    "result": [
+      null,
+      [
+        {
+          "message": "Expected \"}\" but \"~\" found.",
+          "expected": [
+            {
+              "type": "literal",
+              "text": "}",
+              "ignoreCase": false
+            }
+          ],
+          "found": "~",
+          "location": {
+            "start": {
+              "offset": 143,
+              "line": 93,
+              "column": 3
+            },
+            "end": {
+              "offset": 144,
+              "line": 93,
+              "column": 4
+            }
+          },
+          "name": "SyntaxError"
+        }
+      ]
+    ]
+  },
+  {
+    "location": {
+      "start": 97,
+      "end": 103,
+      "text": "::U4 p39 Voc 7 Compound words::Match to make compound words from the article.{\n    =breath -> taking\n\t\t=side -> effect\n\t\t=draw -> back\n\t\t=far -> fetched\n\t\t=every -> day\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "Matching",
+          "title": "U4 p39 Voc 7 Compound words",
+          "stem": {
+            "format": "moodle",
+            "text": "Match to make compound words from the article."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "matchPairs": [
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "breath"
+              },
+              "subanswer": "taking"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "side"
+              },
+              "subanswer": "effect"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "draw"
+              },
+              "subanswer": "back"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "far"
+              },
+              "subanswer": "fetched"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "every"
+              },
+              "subanswer": "day"
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  },
+  {
+    "location": {
+      "start": 106,
+      "end": 112,
+      "text": "::U4 p39 Voc 8 Compound words::Match the compound words to their synonyms.{\n  =ordinary -> everyday\n  =disadvantage -> drawback\n  =incredible -> breathtaking\n  =unlikely -> far-fetched\n  =impact -> side-effect\n}"
+    },
+    "result": [
+      [
+        {
+          "type": "Matching",
+          "title": "U4 p39 Voc 8 Compound words",
+          "stem": {
+            "format": "moodle",
+            "text": "Match the compound words to their synonyms."
+          },
+          "hasEmbeddedAnswers": false,
+          "globalFeedback": null,
+          "matchPairs": [
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "ordinary"
+              },
+              "subanswer": "everyday"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "disadvantage"
+              },
+              "subanswer": "drawback"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "incredible"
+              },
+              "subanswer": "breathtaking"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "unlikely"
+              },
+              "subanswer": "far-fetched"
+            },
+            {
+              "subquestion": {
+                "format": "moodle",
+                "text": "impact"
+              },
+              "subanswer": "side-effect"
+            }
+          ],
+          "id": null,
+          "tags": null
+        }
+      ],
+      null
+    ]
+  }
+]
